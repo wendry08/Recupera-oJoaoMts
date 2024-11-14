@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|c:\\users\\filhos\\source\\repos\\recupera\u00E7\u00E3ojo\u00E3omts\\recupera\u00E7\u00E3ojo\u00E3omts\\escolacadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|solutionrelative:recupera\u00E7\u00E3ojo\u00E3omts\\escolacadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|c:\\users\\filhos\\source\\repos\\recupera\u00E7\u00E3ojo\u00E3omts\\recupera\u00E7\u00E3ojo\u00E3omts\\escolalistagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|solutionrelative:recupera\u00E7\u00E3ojo\u00E3omts\\escolalistagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|c:\\users\\filhos\\source\\repos\\recupera\u00E7\u00E3ojo\u00E3omts\\recupera\u00E7\u00E3ojo\u00E3omts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|solutionrelative:recupera\u00E7\u00E3ojo\u00E3omts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|c:\\users\\filhos\\source\\repos\\recupera\u00E7\u00E3ojo\u00E3omts\\recupera\u00E7\u00E3ojo\u00E3omts\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|solutionrelative:recupera\u00E7\u00E3ojo\u00E3omts\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|c:\\users\\filhos\\source\\repos\\recupera\u00E7\u00E3ojo\u00E3omts\\recupera\u00E7\u00E3ojo\u00E3omts\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|solutionrelative:recupera\u00E7\u00E3ojo\u00E3omts\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|c:\\users\\filhos\\source\\repos\\recupera\u00E7\u00E3ojo\u00E3omts\\recupera\u00E7\u00E3ojo\u00E3omts\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|solutionrelative:recupera\u00E7\u00E3ojo\u00E3omts\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|c:\\users\\filhos\\source\\repos\\recupera\u00E7\u00E3ojo\u00E3omts\\recupera\u00E7\u00E3ojo\u00E3omts\\escolacadastro.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|solutionrelative:recupera\u00E7\u00E3ojo\u00E3omts\\escolacadastro.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|c:\\users\\filhos\\source\\repos\\recupera\u00E7\u00E3ojo\u00E3omts\\recupera\u00E7\u00E3ojo\u00E3omts\\escolalistagem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|solutionrelative:recupera\u00E7\u00E3ojo\u00E3omts\\escolalistagem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|c:\\users\\filhos\\source\\repos\\recupera\u00E7\u00E3ojo\u00E3omts\\recupera\u00E7\u00E3ojo\u00E3omts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C302DE4B-C96E-4149-BBAB-18973A662464}|Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts.csproj|solutionrelative:recupera\u00E7\u00E3ojo\u00E3omts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EscolaListagem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaListagem.xaml.cs",
+              "RelativeDocumentMoniker": "Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaListagem.xaml.cs",
+              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaListagem.xaml.cs",
+              "RelativeToolTip": "Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaListagem.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:10:32.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EscolaCadastro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaCadastro.xaml.cs",
+              "RelativeDocumentMoniker": "Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaCadastro.xaml.cs",
+              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaCadastro.xaml.cs",
+              "RelativeToolTip": "Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaCadastro.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:09:42.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EscolaCadastro.xaml",
+              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaCadastro.xaml",
+              "RelativeDocumentMoniker": "Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaCadastro.xaml",
+              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaCadastro.xaml",
+              "RelativeToolTip": "Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaCadastro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T04:08:20.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EscolaListagem.xaml",
+              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaListagem.xaml",
+              "RelativeDocumentMoniker": "Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaListagem.xaml",
+              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaListagem.xaml",
+              "RelativeToolTip": "Recupera\u00E7\u00E3oJo\u00E3oMts\\EscolaListagem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T04:03:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Escola.cs",
+              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Escola.cs",
+              "RelativeDocumentMoniker": "Recupera\u00E7\u00E3oJo\u00E3oMts\\Escola.cs",
+              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Escola.cs",
+              "RelativeToolTip": "Recupera\u00E7\u00E3oJo\u00E3oMts\\Escola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:00:17.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Aluno.cs",
+              "RelativeDocumentMoniker": "Recupera\u00E7\u00E3oJo\u00E3oMts\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Aluno.cs",
+              "RelativeToolTip": "Recupera\u00E7\u00E3oJo\u00E3oMts\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:59:54.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Curso.cs",
+              "RelativeDocumentMoniker": "Recupera\u00E7\u00E3oJo\u00E3oMts\\Curso.cs",
+              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Curso.cs",
+              "RelativeToolTip": "Recupera\u00E7\u00E3oJo\u00E3oMts\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:59:25.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Recupera\u00E7\u00E3oJo\u00E3oMts\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\MainWindow.xaml",
+              "RelativeToolTip": "Recupera\u00E7\u00E3oJo\u00E3oMts\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T03:57:04.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Recupera\u00E7\u00E3oJo\u00E3oMts\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\Recupera\u00E7\u00E3oJo\u00E3oMts\\Recupera\u00E7\u00E3oJo\u00E3oMts\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Recupera\u00E7\u00E3oJo\u00E3oMts\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:57:03.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
